@@ -1,0 +1,8 @@
+after creating a new repo in github, clone it to your folder
+-$ git clone https://github.com/Varda-Aggarwal/test1.git
+make changes and add new files
+-$ git add .
+commit
+-$ git commit -m "new file"
+push
+-$ git push
